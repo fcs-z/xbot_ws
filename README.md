@@ -1,7 +1,7 @@
 # xbot_ws
 - 若github失败，可使用git clone https://gitee.com/fcsz/xbot.git
 - 以下所有命令为gazebo仿真环境，若在实体机器人运行取消所有命令后缀 _gazebo
-## 0 运行环境和安装依赖
+## 0、运行环境和安装依赖
 ```
 ubuntu2204
 ros2--humble
